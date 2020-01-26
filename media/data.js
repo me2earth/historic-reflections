@@ -34,7 +34,7 @@ Storehouse.data = {
   channel: {
     stories: [
       {
-        title: "Historic Reflections & The Wonders of Spring",
+        title: "Introduction",
         url:   "./stories/historic-reflections-00/index.html",
         cover_media: {
           image: {
@@ -47,7 +47,7 @@ Storehouse.data = {
         }
       },
       {
-        title: "Historic Reflections 1, 2, 3-1",
+        title: "Days 1-3: Marseilles, Monaco, and Cannes",
         url:   "./stories/historic-reflections-01-03/index.html",
         cover_media: {
           image: {
@@ -60,7 +60,7 @@ Storehouse.data = {
         }
       },
       {
-        title: "Historic Reflections 3-2",
+        title: "Day 3, Part 2: Grasse, and St. Paul de Vence",
         url:   "./stories/historic-reflections-03-2/index.html",
         cover_media: {
           image: {
@@ -73,7 +73,7 @@ Storehouse.data = {
         }
       },
       {
-        title: "Historic Reflections 3-3",
+        title: "Day 3, Part 3: Monaco and the Monte Carlo",
         url:   "./stories/historic-reflections-03-3/index.html",
         cover_media: {
           image: {
@@ -86,7 +86,7 @@ Storehouse.data = {
         }
       },
       {
-        title: "Historical Reflections 4",
+        title: "Day 4: Florence",
         url:   "./stories/historic-reflections-04/index.html",
         cover_media: {
           image: {
@@ -99,7 +99,7 @@ Storehouse.data = {
         }
       },
       {
-        title: "Historic Reflections 5-1",
+        title: "Day 5, Part 1: Rome",
         url:   "./stories/historic-reflections-05-1/index.html",
         cover_media: {
           image: {
@@ -112,7 +112,7 @@ Storehouse.data = {
         }
       },
       {
-        title: "Historic Reflections 5-2",
+        title: "Day 5, Part 2: Vatican City",
         url:   "./stories/historic-reflections-05-2/index.html",
         cover_media: {
           image: {
@@ -125,7 +125,7 @@ Storehouse.data = {
         }
       },
       {
-        title: "Historic Reflections 6-1",
+        title: "Day 6, Part 1: Ravello",
         url:   "./stories/historic-reflections-06-1/index.html",
         cover_media: {
           image: {
@@ -138,7 +138,7 @@ Storehouse.data = {
         }
       },
       {
-        title: "Historic reflections 6-2",
+        title: "Day 6, Part 2: Amalfi Coast",
         url:   "./stories/historic-reflections-06-2/index.html",
         cover_media: {
           image: {
@@ -151,7 +151,7 @@ Storehouse.data = {
         }
       },
       {
-        title: "Historic Reflections 7-1",
+        title: "Day 7, Part 1: Sicily",
         url:   "./stories/historic-reflections-07-1/index.html",
         cover_media: {
           image: {
@@ -164,7 +164,7 @@ Storehouse.data = {
         }
       },
       {
-        title: "Historic Reflections 7-2",
+        title: "Day 7, Part 2: Taormina",
         url:   "./stories/historic-reflections-07-2/index.html",
         cover_media: {
           image: {
@@ -177,7 +177,7 @@ Storehouse.data = {
         }
       },
       {
-        title: "Historic Reflections 8",
+        title: "Day 8: A Day at Sea",
         url:   "./stories/historic-reflections-08/index.html",
         cover_media: {
           image: {
@@ -190,7 +190,7 @@ Storehouse.data = {
         }
       },
       {
-        title: "Historic Reflections 9",
+        title: "Day 9: Kuşadası",
         url:   "./stories/historic-reflections-09/index.html",
         cover_media: {
           image: {
@@ -203,7 +203,7 @@ Storehouse.data = {
         }
       },
       {
-        title: "Historic Reflections 10",
+        title: "Day 10: Santorini",
         url:   "./stories/historic-reflections-10/index.html",
         cover_media: {
           image: {
@@ -216,7 +216,7 @@ Storehouse.data = {
         }
       },
       {
-        title: "Historic Reflections 11, 12",
+        title: "Day 11-12: Athens and the Acropolis",
         url:   "./stories/historic-reflections-11-12/index.html",
         cover_media: {
           image: {
@@ -229,7 +229,7 @@ Storehouse.data = {
         }
       },
       {
-        title: "Historic Reflections 13, 14",
+        title: "Day 13-14: Poseidon’s Temple",
         url:   "./stories/historic-reflections-13-14/index.html",
         cover_media: {
           image: {
