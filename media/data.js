@@ -85,7 +85,7 @@ Storehouse.data = {
         }
       },
       {
-        title: "Historic Reflections &   The Wonders of Spring",
+        title: "Historic Reflections & The Wonders of Spring",
         url:   "./stories/138q-historic-reflections-the-wonders-of-spring/index.html",
         cover_media: {
           image: {
