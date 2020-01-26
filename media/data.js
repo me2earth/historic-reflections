@@ -33,15 +33,15 @@ Storehouse.data = {
   channel: {
     stories: [
       {
-        title: "Historic Reflections 3-2",
-        url:   "./stories/historic-reflections-03-2/index.html",
+        title: "Historic Reflections & The Wonders of Spring",
+        url:   "./stories/historic-reflections-00/index.html",
         cover_media: {
           image: {
             representations: {
-              "512": { url: "media/6b02d98a-471b-4d40-9a72-e1873bf9235f.jpg", size: { width: 512, height: 341 } }
+              "512": { url: "media/c8d792f9-7739-438d-a667-8b518f5ea947.jpg", size: { width: 341, height: 512 } }
             },
             focalpoint: { x: 0.5, y: 0.5 },
-            size: { width: 1024, height: 682 }
+            size: { width: 683, height: 1024 }
           }
         }
       },
@@ -59,64 +59,12 @@ Storehouse.data = {
         }
       },
       {
-        title: "Historic Reflections 8",
-        url:   "./stories/historic-reflections-08/index.html",
+        title: "Historic Reflections 3-2",
+        url:   "./stories/historic-reflections-03-2/index.html",
         cover_media: {
           image: {
             representations: {
-              "512": { url: "media/45495cc3-96f1-4ac0-b1de-0a595a433e2b.jpg", size: { width: 512, height: 341 } }
-            },
-            focalpoint: { x: 0.5, y: 0.5 },
-            size: { width: 1024, height: 683 }
-          }
-        }
-      },
-      {
-        title: "Historic Reflections 11, 12",
-        url:   "./stories/historic-reflections-11-12/index.html",
-        cover_media: {
-          image: {
-            representations: {
-              "512": { url: "media/c1904504-9032-42f0-82e1-999e1d1b2115.jpg", size: { width: 512, height: 341 } }
-            },
-            focalpoint: { x: 0.5, y: 0.5 },
-            size: { width: 1024, height: 683 }
-          }
-        }
-      },
-      {
-        title: "Historic Reflections & The Wonders of Spring",
-        url:   "./stories/historic-reflections-00/index.html",
-        cover_media: {
-          image: {
-            representations: {
-              "512": { url: "media/c8d792f9-7739-438d-a667-8b518f5ea947.jpg", size: { width: 341, height: 512 } }
-            },
-            focalpoint: { x: 0.5, y: 0.5 },
-            size: { width: 683, height: 1024 }
-          }
-        }
-      },
-      {
-        title: "Historic Reflections 7-1",
-        url:   "./stories/historic-reflections-07-1/index.html",
-        cover_media: {
-          image: {
-            representations: {
-              "512": { url: "media/f2973b02-4c04-48c8-8b66-40ae02218aa0.jpg", size: { width: 512, height: 341 } }
-            },
-            focalpoint: { x: 0.5, y: 0.5 },
-            size: { width: 1024, height: 683 }
-          }
-        }
-      },
-      {
-        title: "Historic Reflections 5-1",
-        url:   "./stories/historic-reflections-05-1/index.html",
-        cover_media: {
-          image: {
-            representations: {
-              "512": { url: "media/118306a9-5d6d-45a1-ac0b-68b3282d90e1.jpg", size: { width: 512, height: 341 } }
+              "512": { url: "media/6b02d98a-471b-4d40-9a72-e1873bf9235f.jpg", size: { width: 512, height: 341 } }
             },
             focalpoint: { x: 0.5, y: 0.5 },
             size: { width: 1024, height: 682 }
@@ -124,41 +72,15 @@ Storehouse.data = {
         }
       },
       {
-        title: "Historic Reflections 13, 14",
-        url:   "./stories/historic-reflections-13-14/index.html",
+        title: "Historic Reflections 3-3",
+        url:   "./stories/historic-reflections-03-3/index.html",
         cover_media: {
           image: {
             representations: {
-              "512": { url: "media/10e7bd97-4d51-4064-86d0-a92c87293cdc.jpg", size: { width: 512, height: 341 } }
+              "512": { url: "media/78f54888-0267-435c-aeb5-d9bcbc0199fd.jpg", size: { width: 512, height: 189 } }
             },
             focalpoint: { x: 0.5, y: 0.5 },
-            size: { width: 1024, height: 683 }
-          }
-        }
-      },
-      {
-        title: "Historic Reflections 7-2",
-        url:   "./stories/historic-reflections-07-2/index.html",
-        cover_media: {
-          image: {
-            representations: {
-              "512": { url: "media/931ccf2d-9826-4c1b-8d13-636143f9f03a.jpg", size: { width: 512, height: 278 } }
-            },
-            focalpoint: { x: 0.5, y: 0.5 },
-            size: { width: 1024, height: 555 }
-          }
-        }
-      },
-      {
-        title: "Historic Reflections 9",
-        url:   "./stories/historic-reflections-09/index.html",
-        cover_media: {
-          image: {
-            representations: {
-              "512": { url: "media/aed05b62-28bd-4312-b328-5e1665222887.jpg", size: { width: 512, height: 341 } }
-            },
-            focalpoint: { x: 0.5, y: 0.5 },
-            size: { width: 1024, height: 683 }
+            size: { width: 1024, height: 378 }
           }
         }
       },
@@ -176,15 +98,15 @@ Storehouse.data = {
         }
       },
       {
-        title: "Historic Reflections 10",
-        url:   "./stories/historic-reflections-10/index.html",
+        title: "Historic Reflections 5-1",
+        url:   "./stories/historic-reflections-05-1/index.html",
         cover_media: {
           image: {
             representations: {
-              "512": { url: "media/eaed471c-549a-4301-81ce-cc4ba7252c43.jpg", size: { width: 512, height: 384 } }
+              "512": { url: "media/118306a9-5d6d-45a1-ac0b-68b3282d90e1.jpg", size: { width: 512, height: 341 } }
             },
             focalpoint: { x: 0.5, y: 0.5 },
-            size: { width: 1024, height: 768 }
+            size: { width: 1024, height: 682 }
           }
         }
       },
@@ -215,19 +137,6 @@ Storehouse.data = {
         }
       },
       {
-        title: "Historic Reflections 3-3",
-        url:   "./stories/historic-reflections-03-3/index.html",
-        cover_media: {
-          image: {
-            representations: {
-              "512": { url: "media/78f54888-0267-435c-aeb5-d9bcbc0199fd.jpg", size: { width: 512, height: 189 } }
-            },
-            focalpoint: { x: 0.5, y: 0.5 },
-            size: { width: 1024, height: 378 }
-          }
-        }
-      },
-      {
         title: "Historic reflections 6-2",
         url:   "./stories/historic-reflections-06-2/index.html",
         cover_media: {
@@ -239,7 +148,98 @@ Storehouse.data = {
             size: { width: 1024, height: 683 }
           }
         }
-      }
+      },
+      {
+        title: "Historic Reflections 7-1",
+        url:   "./stories/historic-reflections-07-1/index.html",
+        cover_media: {
+          image: {
+            representations: {
+              "512": { url: "media/f2973b02-4c04-48c8-8b66-40ae02218aa0.jpg", size: { width: 512, height: 341 } }
+            },
+            focalpoint: { x: 0.5, y: 0.5 },
+            size: { width: 1024, height: 683 }
+          }
+        }
+      },
+      {
+        title: "Historic Reflections 7-2",
+        url:   "./stories/historic-reflections-07-2/index.html",
+        cover_media: {
+          image: {
+            representations: {
+              "512": { url: "media/931ccf2d-9826-4c1b-8d13-636143f9f03a.jpg", size: { width: 512, height: 278 } }
+            },
+            focalpoint: { x: 0.5, y: 0.5 },
+            size: { width: 1024, height: 555 }
+          }
+        }
+      },
+      {
+        title: "Historic Reflections 8",
+        url:   "./stories/historic-reflections-08/index.html",
+        cover_media: {
+          image: {
+            representations: {
+              "512": { url: "media/45495cc3-96f1-4ac0-b1de-0a595a433e2b.jpg", size: { width: 512, height: 341 } }
+            },
+            focalpoint: { x: 0.5, y: 0.5 },
+            size: { width: 1024, height: 683 }
+          }
+        }
+      },
+      {
+        title: "Historic Reflections 9",
+        url:   "./stories/historic-reflections-09/index.html",
+        cover_media: {
+          image: {
+            representations: {
+              "512": { url: "media/aed05b62-28bd-4312-b328-5e1665222887.jpg", size: { width: 512, height: 341 } }
+            },
+            focalpoint: { x: 0.5, y: 0.5 },
+            size: { width: 1024, height: 683 }
+          }
+        }
+      },
+      {
+        title: "Historic Reflections 10",
+        url:   "./stories/historic-reflections-10/index.html",
+        cover_media: {
+          image: {
+            representations: {
+              "512": { url: "media/eaed471c-549a-4301-81ce-cc4ba7252c43.jpg", size: { width: 512, height: 384 } }
+            },
+            focalpoint: { x: 0.5, y: 0.5 },
+            size: { width: 1024, height: 768 }
+          }
+        }
+      },
+      {
+        title: "Historic Reflections 11, 12",
+        url:   "./stories/historic-reflections-11-12/index.html",
+        cover_media: {
+          image: {
+            representations: {
+              "512": { url: "media/c1904504-9032-42f0-82e1-999e1d1b2115.jpg", size: { width: 512, height: 341 } }
+            },
+            focalpoint: { x: 0.5, y: 0.5 },
+            size: { width: 1024, height: 683 }
+          }
+        }
+      },
+      {
+        title: "Historic Reflections 13, 14",
+        url:   "./stories/historic-reflections-13-14/index.html",
+        cover_media: {
+          image: {
+            representations: {
+              "512": { url: "media/10e7bd97-4d51-4064-86d0-a92c87293cdc.jpg", size: { width: 512, height: 341 } }
+            },
+            focalpoint: { x: 0.5, y: 0.5 },
+            size: { width: 1024, height: 683 }
+          }
+        }
+      },
     ]
   },
 };
