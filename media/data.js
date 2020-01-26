@@ -9,7 +9,7 @@ Storehouse.data = {
 
   user: {
     id:        181019,
-    full_name: "Mark Elster",
+    full_name: "The Elsters’ Mediterranean Cruise",
 
     avatar_image: {
       representations: {
@@ -21,9 +21,10 @@ Storehouse.data = {
     },
     cover_image: {
       representations: {
-        "512":  { url: "media/15f0494f-c73b-4199-98d2-45964a0f22e5.jpg", size: { width: 384, height: 256 } },
-        "1024": { url: "media/2015e4f2-abef-439f-8df2-1b3a4985ebab.jpg", size: { width: 384, height: 256 } },
-        "2048": { url: "media/2f509070-23e0-4ea6-9d05-202ec2b11f75.jpg", size: { width: 384, height: 256 } },
+        "2048": {
+          url: "media/1667b415-6bd1-4951-a493-2cb02298dfb7.jpg",
+          size: { width: 2048, height: 1364 }
+        }
       },
       focalpoint: { x: 0.5, y: 0.5 },
       size: { width: 384, height: 256 }

@@ -2236,3 +2236,11 @@ video {
 
 .b, .title, .header.text { font-weight: 700 }
 .subtitle, .pull_quote.text { font-weight: 300 }
+
+
+.avatar { display: none; }
+h2.ellipsis {
+  white-space:   unset;
+  overflow:      unset;
+  text-overflow: unset;
+}
