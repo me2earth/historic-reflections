@@ -22,7 +22,7 @@ Storehouse.data = {
     cover_image: {
       representations: {
         "2048": {
-          url: "media/69018d33-f0cc-4d3c-8af8-5e93e48a97bf.jpg",
+          url: "media/1667b415-6bd1-4951-a493-2cb02298dfb7.jpg",
           size: { width: 2048, height: 1364 }
         }
       },
