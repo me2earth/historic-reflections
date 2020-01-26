@@ -34,7 +34,7 @@ Storehouse.data = {
     stories: [
       {
         title: "Historic Reflections 3-2",
-        url:   "./stories/t6oci-historic-reflections-3-2/index.html",
+        url:   "./stories/historic-reflections-03-2/index.html",
         cover_media: {
           image: {
             representations: {
@@ -47,7 +47,7 @@ Storehouse.data = {
       },
       {
         title: "Historic Reflections 1, 2, 3-1",
-        url:   "./stories/16q4-historic-reflections-1-2-3-1/index.html",
+        url:   "./stories/historic-reflections-01-03/index.html",
         cover_media: {
           image: {
             representations: {
@@ -60,7 +60,7 @@ Storehouse.data = {
       },
       {
         title: "Historic Reflections 8",
-        url:   "./stories/o9hrl-historic-reflections-8/index.html",
+        url:   "./stories/historic-reflections-08/index.html",
         cover_media: {
           image: {
             representations: {
@@ -73,7 +73,7 @@ Storehouse.data = {
       },
       {
         title: "Historic Reflections 11, 12",
-        url:   "./stories/o7hpr-historic-reflections-11-12/index.html",
+        url:   "./stories/historic-reflections-11-12/index.html",
         cover_media: {
           image: {
             representations: {
@@ -86,7 +86,7 @@ Storehouse.data = {
       },
       {
         title: "Historic Reflections & The Wonders of Spring",
-        url:   "./stories/138q-historic-reflections-the-wonders-of-spring/index.html",
+        url:   "./stories/historic-reflections-00/index.html",
         cover_media: {
           image: {
             representations: {
@@ -99,7 +99,7 @@ Storehouse.data = {
       },
       {
         title: "Historic Reflections 7-1",
-        url:   "./stories/t6ibf-historic-reflections-7-1/index.html",
+        url:   "./stories/historic-reflections-07-1/index.html",
         cover_media: {
           image: {
             representations: {
@@ -112,7 +112,7 @@ Storehouse.data = {
       },
       {
         title: "Historic Reflections 5-1",
-        url:   "./stories/t3scy-historic-reflections-5-1/index.html",
+        url:   "./stories/historic-reflections-05-1/index.html",
         cover_media: {
           image: {
             representations: {
@@ -125,7 +125,7 @@ Storehouse.data = {
       },
       {
         title: "Historic Reflections 13, 14",
-        url:   "./stories/o88g4-historic-reflections-13-14/index.html",
+        url:   "./stories/historic-reflections-13-14/index.html",
         cover_media: {
           image: {
             representations: {
@@ -138,7 +138,7 @@ Storehouse.data = {
       },
       {
         title: "Historic Reflections 7-2",
-        url:   "./stories/t1176-historic-reflections-7-2/index.html",
+        url:   "./stories/historic-reflections-07-2/index.html",
         cover_media: {
           image: {
             representations: {
@@ -151,7 +151,7 @@ Storehouse.data = {
       },
       {
         title: "Historic Reflections 9",
-        url:   "./stories/o5hr1-historic-reflections-9/index.html",
+        url:   "./stories/historic-reflections-09/index.html",
         cover_media: {
           image: {
             representations: {
@@ -164,7 +164,7 @@ Storehouse.data = {
       },
       {
         title: "Historical Reflections 4",
-        url:   "./stories/t7sp3-historical-reflections-4/index.html",
+        url:   "./stories/historic-reflections-04/index.html",
         cover_media: {
           image: {
             representations: {
@@ -177,7 +177,7 @@ Storehouse.data = {
       },
       {
         title: "Historic Reflections 10",
-        url:   "./stories/o6hpo-historic-reflections-10/index.html",
+        url:   "./stories/historic-reflections-10/index.html",
         cover_media: {
           image: {
             representations: {
@@ -190,7 +190,7 @@ Storehouse.data = {
       },
       {
         title: "Historic Reflections 5-2",
-        url:   "./stories/t7sxr-historic-reflections-5-2/index.html",
+        url:   "./stories/historic-reflections-05-2/index.html",
         cover_media: {
           image: {
             representations: {
@@ -203,7 +203,7 @@ Storehouse.data = {
       },
       {
         title: "Historic Reflections 6-1",
-        url:   "./stories/t204e-historic-reflections-6-1/index.html",
+        url:   "./stories/historic-reflections-06-1/index.html",
         cover_media: {
           image: {
             representations: {
@@ -216,7 +216,7 @@ Storehouse.data = {
       },
       {
         title: "Historic Reflections 3-3",
-        url:   "./stories/t3r0r-historic-reflections-3-3/index.html",
+        url:   "./stories/historic-reflections-03-3/index.html",
         cover_media: {
           image: {
             representations: {
@@ -229,7 +229,7 @@ Storehouse.data = {
       },
       {
         title: "Historic reflections 6-2",
-        url:   "./stories/t4v49-historic-reflections-6-2/index.html",
+        url:   "./stories/historic-reflections-06-2/index.html",
         cover_media: {
           image: {
             representations: {
